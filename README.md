@@ -10,7 +10,7 @@ Le titre à finalité professionnelle Développeur.euse en intelligence artifici
 
 - Une certification Microsoft Azure Notions de base d’IA - AI-900
 
-Plus info sur l'école et la formation [ici](https://simplon.co/formations/data-intelligence-artificielle)
+Plus d'info sur l'école et la formation [ici](https://simplon.co/formations/data-intelligence-artificielle)
 
 
 _Repo pour les activictés proposées par la formation_
