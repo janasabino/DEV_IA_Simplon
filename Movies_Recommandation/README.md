@@ -6,7 +6,7 @@
 
 | Tâche                     | Description|Languages/Outils|
 |-------------------------|  --------|---|
-|Preprocessing         |code python pour la collecte  + choix des variable pour le modèle |Python|
+|EDA         |code python pour la collecte  + choix des variable pour le modèle |Python|
 |NLP        |code python pour l'entraînement d'un modèle de similarité |Python, Hugging Face, Spacy, Sklearn|
 |Application        |code python pour l'application |Python, Streamlit|
 
