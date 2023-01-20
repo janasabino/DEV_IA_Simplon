@@ -19,10 +19,10 @@
 pip install streamlit
 
 #cloner le répertoire git
-git clone
+git clone https://github.com/janasabino/DEV_IA_Simplon.git
 
 #aller dans le répertoire
-cd Recommandation_Film
+cd Movie_Recommandation
 
 #lancer l'application sur ligne de commande
 streamlit run app.py
