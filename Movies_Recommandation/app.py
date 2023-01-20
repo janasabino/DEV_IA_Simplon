@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity, euclidean_distances, linear_kernel, manhattan_distances, polynomial_kernel
 
 #open_embedded dataset
-movies = pd.read_csv("movies_embedded_V2.csv")
+movies = pd.read_csv("movies_embedded.csv")
 movies["embedded"] = movies["embedded"].apply(lambda x : [float(x) for x in x.replace("[", "").replace ("]", "").split()])
 
 #function similarities
