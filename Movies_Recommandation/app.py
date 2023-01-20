@@ -32,7 +32,7 @@ def embedded_text(df, text, metrica):
 #st.title("Movies Recommendation")
 st.markdown("<h1 style='text-align: center; color: blue;'>Movies Recommendation</h1>", unsafe_allow_html=True)
 
-img = Image.open("cinema.jpg")
+img = Image.open("img/cinema.jpg")
 st.image(img)
 
 metric_select = st.selectbox("Selection of the similarity metric", ["Cosine Similarity", "Euclidean Distances", "Linear Kernel", "Manhattan Distances", "Polynomial Kernel"])

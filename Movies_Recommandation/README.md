@@ -1,6 +1,6 @@
 # Movies Recommendation
 
-![Movies](img/image.jpeg)
+![Movies](https://www.lambesc.fr/fileadmin/user_upload/cinema.jpg)
 
 ## Contenu
 
