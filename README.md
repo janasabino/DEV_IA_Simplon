@@ -1,16 +1,29 @@
-# École IA Microsoft By Simplon - Développeur.euse en Intelligence Artificielle
+# Movies Recommendation
 
-Parcours délivrant un titre à finalité professionnelle et une certification reconnus par l’État, ainsi qu’une certification Microsoft Azure.
+![Movies](img/image.jpeg)
 
-Le titre à finalité professionnelle Développeur.euse en intelligence artificielle de niveau 6 (ancien niveau II), équivalent Bac+3 ou 4 – RNCP34757 
+## Contenu
 
-- Une certification Gérer un projet en mobilisant les méthodes agiles - RS5487
+| Tâche                     | Description|Languages/Outils|
+|-------------------------|  --------|---|
+|Preprocessing         |code python pour la collecte  + choix des variable pour le modèle |Python|
+|NLP        |code python pour l'entraînement d'un modèle de similarité |Python, Hugging Face, Spacy, Sklearn|
+|Application        |code python pour l'application |Python, Streamlit|
 
-- Une certification Microsoft Azure Fundamentals - AZ-900
+--------------------------------------------------------------------------------
 
-- Une certification Microsoft Azure Notions de base d’IA - AI-900
+## Lancer l'aplication
 
-Plus d'info sur l'école et la formation [ici](https://simplon.co/formations/data-intelligence-artificielle)
+```
+#install streamlit
+pip install streamlit
 
+#cloner le répertoire git
+git clone
 
-_Repo pour les activictés proposées par la formation_
+#aller dans le répertoire
+cd Recommandation_Film
+
+#lancer l'application sur ligne de commande
+streamlit run app.py
+```
